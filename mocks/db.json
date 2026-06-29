@@ -1,0 +1,88 @@
+{
+  "pedidos": [
+    {
+      "id": 1,
+      "cliente": "Joao Silva",
+      "status": "PENDENTE",
+      "momento": "2026-06-10T09:15:00",
+      "valorTotal": 89.9
+    },
+    {
+      "id": 2,
+      "cliente": "Maria Souza",
+      "status": "CONFIRMADO",
+      "momento": "2026-06-10T10:30:00",
+      "valorTotal": 145.5
+    },
+    {
+      "id": 3,
+      "cliente": "Joao Silva",
+      "status": "EM_PREPARO",
+      "momento": "2026-06-10T11:00:00",
+      "valorTotal": 52.0
+    },
+    {
+      "id": 4,
+      "cliente": "Carla Mendes",
+      "status": "PRONTO",
+      "momento": "2026-06-10T12:45:00",
+      "valorTotal": 210.75
+    },
+    {
+      "id": 5,
+      "cliente": "Pedro Alves",
+      "status": "ENTREGUE",
+      "momento": "2026-06-09T19:20:00",
+      "valorTotal": 67.3
+    },
+    {
+      "id": 6,
+      "cliente": "Ana Paula",
+      "status": "CANCELADO",
+      "momento": "2026-06-09T20:05:00",
+      "valorTotal": 38.9
+    },
+    {
+      "id": 7,
+      "cliente": "Lucas Pereira",
+      "status": "PENDENTE",
+      "momento": "2026-06-11T08:10:00",
+      "valorTotal": 99.99
+    },
+    {
+      "id": 8,
+      "cliente": "Maria Souza",
+      "status": "ENTREGUE",
+      "momento": "2026-06-11T13:40:00",
+      "valorTotal": 122.4
+    },
+    {
+      "id": 9,
+      "cliente": "Carla Mendes",
+      "status": "CONFIRMADO",
+      "momento": "2026-06-11T14:25:00",
+      "valorTotal": 75.0
+    },
+    {
+      "id": 10,
+      "cliente": "Joao Silva",
+      "status": "ENTREGUE",
+      "momento": "2026-06-08T18:00:00",
+      "valorTotal": 180.2
+    },
+    {
+      "id": 11,
+      "cliente": "Pedro Alves",
+      "status": "EM_PREPARO",
+      "momento": "2026-06-11T15:50:00",
+      "valorTotal": 64.5
+    },
+    {
+      "id": 12,
+      "cliente": "Ana Paula",
+      "status": "PRONTO",
+      "momento": "2026-06-11T16:10:00",
+      "valorTotal": 49.9
+    }
+  ]
+}
